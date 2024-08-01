@@ -1,0 +1,13 @@
+llama-index==0.10.17
+llama-index-vector-stores-qdrant
+fastembed
+llama-index-embeddings-fastembed
+llama-index-llms-gemini
+llama-index-embeddings-gemini
+gradio
+llama-index-readers-web
+qdrant-client
+firecrawl-py
+streamlit-analytics2
+llama-index-readers-youtube-transcript
+pypdf2
